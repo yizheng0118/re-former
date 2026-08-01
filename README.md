@@ -1,2 +1,3 @@
-# re-former
-The Odin Project Forms Project: Building forms with bare metal HTML and then refactoring using Rails helper methods.
+The Odin Project
+
+Forms Project: Building a form with bare metal HTML and then refactoring it "the Ruby way" using Rails helper methods.
